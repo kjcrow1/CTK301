@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Main</title>
+  </head>
+  <body>
+    <ul>
+        <li><a href="main.html">Main</a></li>
+        <li><a href="requirements.html">Requirements</a></li>
+        <li><a href="classes.html">Classes</a></li>
+      </ul>
+    <h1>Main</h1>
+    <img src="Main Page Pic.jpg" alt="Main Page" >
+
+
+    <h2>Creative Technology Program (CTK)</h2>
+<ul style="list-style-type: none;">
+    <li><strong>Address:</strong> Campus Box 5750</li>
+        <li><strong>Phone:</strong> (309) 438-2875</li>
+            <li><strong>Director:</strong> Rose Marshack</li>
+                <li><strong>Degrees Offered:</strong> B.A., B.S.</li>
+                </ul>
+
+                <h3>Major in Creative Technologies</h3>
+
+    <p>Major in Creative Technologies The interdisciplinary Creative Technologies major emphasizes design and practice in the integration of digital technologies and the fine arts. In addition to foundational study across the fine arts, the major provides training and experiences across a range of creative/technical fields including video, sound, electronic music, music production, gaming, motion graphics, interactivity, AR/VR, UI/UX, mobile, web, and computer programming concepts.</p>
+
+    </html>
+            </body>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Requirements</title>
+  </head>
+  <body>
+    <ul>
+        <li><a href="main.html">Main</a></li>
+        <li><a href="requirements.html">Requirements</a></li>
+        <li><a href="classes.html">Classes</a></li>
+      </ul>
+    <h1>Requirements</h1>
+    <img src="Requirements pic.jpg" alt="Requirements Page" >
+
+    <h2>Retention Requirments</h2>
+
+    <ul>
+
+
+    <li><strong>Sequence in Audio and Music Production and Interdisciplinary Technologies -</strong>Students will be allowed to continue in this sequence <i>if they meet and continue to maintain an overall cumulative GPA of 2.00.</i></li>
+
+    <li><strong>Sequence in Game Design -</strong>Students will be allowed to continue in this sequence <i>if they meet and continue to maintain an overall cumulative GPA of 2.50 and a cumulative GPA of 3.0 within the major.</i> Additionally, students in the Game Design Sequence must maintain consecutive Fall-Spring enrollment in their final at the University. Any student not enrolled at the university for more than one semester must reapply to the sequence. Students who leave the Sequence in Game Design may continue as a Creative Technologies major in Audio and Music Production or Interdisciplinary Technologies<i>if they have an overall cumulative GPA of 2.00.</i></li>
+    
+    </ul>
+
+    <h2>Standards for Progress in the Major</h2>
+
+    <p>Students will be allowed to continue in the Creative Technologies program if they met and continue to maintain a cumulative GPA of 2.50 and have demonstrated competency through an intermediate portfolio review.</p>
+
+    <h2>Sequences in Creative Technologies</h2>
+
+    <p><strong>Audio and Music Production Sequence</strong></p>
+
+    <p>The Audio and Music Production sequence provides concentrated study in sound recording, audio production, sound design, music composition, theory, and business and entrepreneurship practices, along with a host of elective experiences across a range of creative/technical fields including video, sound, electronic music, music production, gaming, motion graphics, interactivity, AR/VR, UI/UX, mobile, web, and computer programming concepts.</p>
+
+    <p><strong>Sequence in Game Design</strong></p>
+
+    <p>The Game Design sequence provides concentrated study in game design and production, along with a host of elective experiences across a range of creative/technical fields including video, electronic music, music production, motion graphics, interactivity, AR/VR/XR, UI/UX, mobile, web, and computer programming concepts.</p>
+
+    <p><strong>Sequence in Interdisciplinary Technologies</strong></p>
+    
+    <p>The Interdisciplinary Technologies sequence provides concentrated study in mobile, web and computer programming concepts, UI/UX, motion graphics, and interactivity along with a host of elective experiences across a range of creative/technical fields including sound, electronic music, music production, AR/VR/XR, and game design.</p>
+
+    </html>
+</body>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Classes</title>
+  </head>
+  <body>
+    <ul>
+        <li><a href="main.html">Main</a></li>
+        <li><a href="requirements.html">Requirements</a></li>
+        <li><a href="classes.html">Classes</a></li>
+      </ul>
+    <h1>Classes</h1>
+    <img src="Classes pic.gif" alt="Classes Page" >
+
+    <h2>300 Level Classes</h2>
+
+<p><strong>301 - Web Design and Develpoment (3)</strong></p>
+
+
+<p>Theory, technical skills, and design concepts for the creation of standards-compliant web sites.</p>
+
+
+<p><strong>302 - Computer Programming for Creatives (3)</strong></p>
+
+
+<p>Text-based, object-oriented, computer programming concepts for areas including interactive design, user interfaces, data visualization, and gaming.</p>
+
+
+<p><strong>303 - Advanced Web Design and Development (3)</strong></p>
+
+
+<p>Advanced programming methods for the creation of dynamically generated web sites and interactive web applications.</p>
+
+
+<p><strong>320 - Programming Dynamic Media (3)</strong></p>
+
+
+<p> Programming concepts using a graphical, dataflow environment for media-based performance, interactive installation, and generative art/sound. </p>
+
+
+<p><strong>330 - Web Video (3)</strong></p>
+
+
+<p>Students will learn technical skills and concepts for the creation of fictional and documentary video content specifically for delivery on the web. </p>
+
+
+<p><strong>340 - Sound Design 2: Advanced Digital Audio (3)</strong></p>
+
+
+<p>Advanced digital audio and aesthetic principles of sound.</p>
+
+
+<p><strong>345 - Sequencing and Digital Audio (3)</strong></p>
+
+
+<p>Study of music synthesis through MIDI sequencers, digital sound editing and recording, and the integration of digital audio and MIDI.</p>
+
+
+<p><strong>351 - Game Design I (3)</strong></p>
+
+
+<p>This foundational game design class explores concepts and frameworks for understanding and designing for engagement, fun, and motivation in games. </p>
+
+
+<p><strong>354 - User Experience Design for Games (3)</strong></p>
+
+
+<p>This course explores common trends concerning interface design in gaming for understanding how they influence a user s overall experience of a game. </p>
+
+
+<p><strong>377 - Motion Graphics (3)</strong></p>
+
+
+<p>Create motion graphics with compositing, animation, and visual effects (VFX) for broadcast, web, virtual and augmented reality, with focus on community engagement.</p>
+
+</html>
+  </body>
