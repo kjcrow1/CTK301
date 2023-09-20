@@ -1,0 +1,45 @@
+/* This is a stylesheet for assigment3.html */
+
+a:link {
+    color: #ff0000;
+}
+
+a:hover {
+   color: #F0F060;
+}
+
+a:visited {
+    color: #79F36B;
+
+}
+
+h1 {
+    color: #E64B67;
+    background-color: #483135;
+}
+
+.specialh1 {
+    color: #EB7ED0;
+}
+
+h2 {
+    color: #3A51E7;
+    background-color: #483135;
+}
+
+h3 {
+    color: #12C31B;
+    background-color: #483135;
+}
+
+#specialid {
+    color: #8433A7;
+}
+
+#divclasses {
+    background-color: #EB9D8D;
+}
+
+.spanstyle {
+    color:#ff0000;
+}
